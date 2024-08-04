@@ -1,4 +1,4 @@
-'''
+
 input_user=input("enter your name:")
 print("hello",input_user)
 age=input("enter your age:")
@@ -41,4 +41,3 @@ name=input("enter name?")
 age=input("enter age?")
 print("name:",name,",","age:",age)
 
-'''
