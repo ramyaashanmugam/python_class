@@ -55,3 +55,7 @@ print(stu_1_dpt=="civil")
 print(stu_2_dpt=="civil")
 print(stu_3_dpt=="civil")
 
+list_data=[2,5,"ramya",54.00]
+print(list_data[0],type(list_data[0]))
+
+#print all list_data values and their type?
