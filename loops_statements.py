@@ -71,3 +71,20 @@ word=""
 for r in d[::-1]:
     word=word+r
 print(word)
+
+'''
+for num in range(1, 51):  # Range from 1 to 51 (inclusive)
+    if num > 1:  # 1 is not a prime number
+        for i in range(2, num):
+            if num % i == 0:
+                break
+        else:
+            print(num, "is a prime number")'''
+
+for i in range(1,6):
+    for j in range(i):
+        print("*", end=" ")
+    print()
+
+for j in range(0,3+1):
+    print("D",end=" ")
