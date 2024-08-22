@@ -79,7 +79,7 @@ for num in range(1, 51):  # Range from 1 to 51 (inclusive)
             if num % i == 0:
                 break
         else:
-            print(num, "is a prime number")'''
+            print(num, "is a prime number")
 
 for i in range(1,6):
     for j in range(i):
@@ -87,4 +87,8 @@ for i in range(1,6):
     print()
 
 for j in range(0,3+1):
-    print("D",end=" ")
+    print("D",end=" ") '''
+
+
+for i in range(5,5):
+    print(i)
