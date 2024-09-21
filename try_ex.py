@@ -27,7 +27,7 @@ while True:
         if age < 16:
             raise AgeError("not eligible for voting")
         else:
-            print("you are eligible for vaoting")
+            print("you are eligible for voting")
 
     except Exception as e:
         print(e)
